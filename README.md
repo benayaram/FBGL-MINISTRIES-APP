@@ -3,4 +3,4 @@
 
 this is the app for Church
 
-![Uploading exportPreview.png…]()
+![exportPreview](https://github.com/user-attachments/assets/a72271f4-1f58-4d0a-8d2e-c1e76266434b)
